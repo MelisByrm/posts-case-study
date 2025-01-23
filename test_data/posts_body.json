@@ -1,0 +1,11 @@
+{
+  "default_post": {
+    "title": "Test Post",
+    "body": "This is a test post, Lorem ipsum dolor sit amet..."
+  },
+  "missing_id": {
+  "title": "testtest foo",
+  "body": "This is a test post",
+  "userId": 1
+}
+}
